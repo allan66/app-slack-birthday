@@ -7,25 +7,6 @@ Este é um bot desenvolvido em Node.js que lê uma planilha pública do Google S
 ## 🚀 Tecnologias Utilizadas
 
 - **Node.js** – Plataforma de desenvolvimento backend.
-- **Slack Web API** – Para envio de mensagens e identificação de usuários.
-- **Giphy API** – Para buscar GIFs dinâmicos com tema de aniversário.
-- **Google Sheets** – Usado como base de dados de aniversariantes.
-- **dotenv** – Gerenciamento de variáveis de ambiente.
-
----
-
-## 📁 Estrutura do Projeto
-
-├── app/
-│ ├── frases.js
-│ ├── gifs.js
-│ ├── giphy.js
-│ ├── slack.js
-│ └── main.js
-├── .env
-├── package.json
-└── README.md
-
 
 ---
 
